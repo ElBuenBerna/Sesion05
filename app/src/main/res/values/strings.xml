@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Sesion5</string>
+    <string name="action_settings">Settings</string>
+
+
+        <string-array name="opciones">
+            <item>Bachillerato</item>
+            <item>Técnico</item>
+            <item>Licenciatura</item>
+            <item>Maestría</item>
+            <item>Doctorado</item>
+        </string-array>
+
+        <string-array name="libros">
+            <item>All The Light We Cannot See</item>
+            <item>Elon Musk</item>
+            <item>The Perks of Being a Wallflower</item>
+            <item>Harry Potter</item>
+            <item>The Name of the Wind</item>
+        </string-array>
+
+        <string name="Nombre">Nombre</string>
+        <string name="Telefono">Teléfono</string>
+        <string name="Escolaridad">Escolaridad</string>
+        <string name="Género">Género</string>
+        <string name="Libro">Libro</string>
+        <string name="Deporte">Deporte</string>
+
+
+</resources>
